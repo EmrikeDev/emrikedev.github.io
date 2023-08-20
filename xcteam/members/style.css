@@ -6,11 +6,12 @@
 
 #thanks {
 	color: #999;
-	text-align: center
+	text-align: center;
 }
 
 h1 {
-	color: #f7b94c;
+	color: #000;
+	background-color: #f7b94c;
 	text-align: center;
 }
 
