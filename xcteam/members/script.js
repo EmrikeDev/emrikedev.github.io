@@ -9,7 +9,7 @@ data.forEach(person => {
 	const personImageContainer = document.createElement('div');
 	personImageContainer.className = 'person-image';
 	const personImage = document.createElement('img');
-	personImage.src = `faces/${person.id}.jpg`;
+	personImage.src = `https://img1.imgtp.com/2023/08/20/${person.face}.jpg`;
 	personImage.alt = person.name;
 	personImageContainer.appendChild(personImage);
 
