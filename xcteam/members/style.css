@@ -4,6 +4,11 @@
 	flex-wrap: wrap;
 }
 
+#thanks {
+	color: #999;
+	text-align: center
+}
+
 h1 {
 	color: #f7b94c;
 	text-align: center;
